@@ -35,3 +35,6 @@ gcmt() {
 gadd() {
     git add "$@"
 }
+gpsh() {
+    git push "$@"
+}
