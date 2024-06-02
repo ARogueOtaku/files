@@ -1,4 +1,4 @@
-# This is a Storage Repository to store random files I need anytime.
+# This is a Storage Repository to store random files.
 
 ### Download any file and place in appropriate position with this command in bash:
 
