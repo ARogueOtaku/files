@@ -7,3 +7,4 @@
 ### Premande Templates:
 
 1. `curl https://raw.githubusercontent.com/ARogueOtaku/files/master/.bashrc -o ~/.bashrc`
+2. `curl https://raw.githubusercontent.com/ARogueOtaku/files/master/.bashrc -o ~/.bash_aliases`

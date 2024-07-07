@@ -22,7 +22,10 @@ grt() {
     git restore "$@"
 }
 gst() {
-    git stash -u "$@"
+    git stash "$@"
+}
+gstu() {
+    gst -u "$@"
 }
 alias gstp="gst pop"
 alias gstc="gst clear"
